@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="154" height="154" viewBox="0 0 154 154">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.312" y1="0.053" x2="0.707" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1259ff"/>
+      <stop offset="1" stop-color="#092d80"/>
+    </linearGradient>
+    <filter id="Ellipse_496" x="0" y="0" width="154" height="154" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#404040" flood-opacity="0.741"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_28002" data-name="Group 28002" transform="translate(-1025.5 -860.5)">
+    <g transform="matrix(1, 0, 0, 1, 1025.5, 860.5)" filter="url(#Ellipse_496)">
+      <circle id="Ellipse_496-2" data-name="Ellipse 496" cx="54.5" cy="54.5" r="54.5" transform="translate(22.5 22.5)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Path_16963" data-name="Path 16963" d="M57.137,68.915a2.645,2.645,0,1,0,2.645,2.645A2.645,2.645,0,0,0,57.137,68.915ZM62.061,53.1h3.252a2.645,2.645,0,0,0,0-5.291H62.061a2.645,2.645,0,0,0,0,5.291ZM110.51,42.561V38.634h.733a2.645,2.645,0,1,0,0-5.29h-6.757a2.645,2.645,0,0,0,0,5.29h.734v3.936A23.875,23.875,0,0,0,98.7,44.24a45.815,45.815,0,0,1-17.513,3.567H73.729a2.645,2.645,0,0,0,0,5.291h9.9a2.609,2.609,0,0,1,2.79,2.645,2.688,2.688,0,0,1-2.79,2.645H53.97c-2.372,0-3.556,1.184-3.556,2.645a2.645,2.645,0,0,0,2.645,2.645H77.745a2.643,2.643,0,0,1-.051,5.285H67.515a2.645,2.645,0,0,0,0,5.29H82.833a2.645,2.645,0,0,1,0,5.291H75.5a2.645,2.645,0,1,0,0,5.29h5.651a41.442,41.442,0,0,1,16.961,3.325,23.911,23.911,0,1,0,12.394-45.6ZM94.1,80.352a.172.172,0,0,1-.242-.241l10.2-13.277a4.011,4.011,0,1,1,3.3,3.3Zm31.67-6.468A19.451,19.451,0,0,1,100.3,84.222a2.332,2.332,0,0,1,1.818-4.3,14.888,14.888,0,0,0,11.493,0,14.767,14.767,0,0,0-5.747-28.375,2.332,2.332,0,1,1,0-4.663,19.438,19.438,0,0,1,17.9,26.995Z" transform="translate(1002.309 875.943)" fill="#fff" opacity="0.747"/>
+  </g>
+</svg>

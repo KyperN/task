@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="154" height="154" viewBox="0 0 154 154">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.312" y1="0.053" x2="0.707" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1259ff"/>
+      <stop offset="1" stop-color="#092d80"/>
+    </linearGradient>
+    <filter id="Ellipse_497" x="0" y="0" width="154" height="154" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_28003" data-name="Group 28003" transform="translate(-994.5 -877.5)">
+    <g transform="matrix(1, 0, 0, 1, 994.5, 877.5)" filter="url(#Ellipse_497)">
+      <circle id="Ellipse_497-2" data-name="Ellipse 497" cx="54.5" cy="54.5" r="54.5" transform="translate(22.5 22.5)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_28004" data-name="Group 28004" transform="translate(339.959 595.484)" opacity="0.75">
+      <path id="Path_16964" data-name="Path 16964" d="M770.245,354.906a4.836,4.836,0,0,0-3.24-1.839l-2.442-.3a33.5,33.5,0,0,0-65.638,0l-2.442.3a4.892,4.892,0,0,0-4.244,5.432l1.608,13.08a4.878,4.878,0,0,0,4.835,4.281,4.982,4.982,0,0,0,.6-.036l3.014-.371,1.8-.219a4.861,4.861,0,0,0,2.04-.737,29.683,29.683,0,1,1,51.23,0,4.834,4.834,0,0,0,2.034.737l1.8.219,3.014.371a4.872,4.872,0,0,0,5.432-4.244l1.608-13.08A4.847,4.847,0,0,0,770.245,354.906Z" fill="#fff"/>
+      <path id="Path_16965" data-name="Path 16965" d="M1030.662,529.765c-.108.029-.215.061-.323.089-2.193.574-4.407,1.066-6.641,1.441s-4.478.685-6.737.859c-.472.044-.944.078-1.417.11a2.374,2.374,0,0,1-2.256,1.676h-5.862a2.373,2.373,0,0,1,0-4.747h5.862a2.371,2.371,0,0,1,2.1,1.3c.473-.033.946-.068,1.418-.113,2.207-.174,4.4-.489,6.584-.853s4.344-.857,6.481-1.42c.77-.206,1.54-.43,2.307-.662a25.2,25.2,0,1,0-30.082,11.209c-.944,2.741-2.6,5.728-5.506,7.136-.429.193-.965.339-.965.925,0,.726.846.846.846.846s12.433,1.228,17.177-7.736A25.178,25.178,0,0,0,1030.662,529.765Zm-11.179-17.117a2.192,2.192,0,1,1-2.192,2.192A2.191,2.191,0,0,1,1019.484,512.648Zm-9.125,0a2.192,2.192,0,1,1-2.192,2.192A2.192,2.192,0,0,1,1010.359,512.648Zm-11.316,2.192a2.192,2.192,0,1,1,2.192,2.192A2.192,2.192,0,0,1,999.042,514.84Z" transform="translate(-278.614 -155.628)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="154" height="154" viewBox="0 0 154 154">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.312" y1="0.053" x2="0.707" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1259ff"/>
+      <stop offset="1" stop-color="#092d80"/>
+    </linearGradient>
+    <filter id="Ellipse_494" x="0" y="0" width="154" height="154" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#404040" flood-opacity="0.741"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_27998" data-name="Group 27998" transform="translate(-659.5 -860.5)">
+    <g transform="matrix(1, 0, 0, 1, 659.5, 860.5)" filter="url(#Ellipse_494)">
+      <circle id="Ellipse_494-2" data-name="Ellipse 494" cx="54.5" cy="54.5" r="54.5" transform="translate(22.5 22.5)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_27996" data-name="Group 27996" transform="translate(654.197 855.588)" opacity="0.74">
+      <path id="Path_16957" data-name="Path 16957" d="M121.852,89.408V57.346H99.944a24.842,24.842,0,0,1-1.627,45.2l11.925,15.583,21.982-28.724Z" transform="translate(-16.618)" fill="#fff"/>
+      <path id="Path_16958" data-name="Path 16958" d="M72.229,57.346A22.229,22.229,0,1,0,94.458,79.575,22.229,22.229,0,0,0,72.229,57.346Zm1.084,33.091v3.656H70.4V90.651a11.889,11.889,0,0,1-5.751-1.562l.958-3.337a11.2,11.2,0,0,0,5.538,1.562c2.236,0,3.762-1.1,3.762-2.8,0-1.6-1.242-2.626-3.869-3.585C67.314,79.575,64.9,77.871,64.9,74.57c0-3.053,2.13-5.4,5.716-6.035V65.057h2.911v3.3a11.347,11.347,0,0,1,4.9,1.172l-.958,3.265a10.555,10.555,0,0,0-4.828-1.207c-2.485,0-3.372,1.278-3.372,2.485,0,1.455,1.278,2.272,4.3,3.479,3.976,1.491,5.75,3.408,5.75,6.567C79.312,87.135,77.218,89.8,73.313,90.437Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
